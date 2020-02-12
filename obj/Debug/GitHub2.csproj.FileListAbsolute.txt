@@ -1,0 +1,9 @@
+C:\Users\albertolozosu\Desktop\GitHub2\bin\Debug\GitHub2.exe.config
+C:\Users\albertolozosu\Desktop\GitHub2\bin\Debug\GitHub2.exe
+C:\Users\albertolozosu\Desktop\GitHub2\bin\Debug\GitHub2.pdb
+C:\Users\albertolozosu\Desktop\GitHub2\obj\Debug\GitHub2.csprojAssemblyReference.cache
+C:\Users\albertolozosu\Desktop\GitHub2\obj\Debug\GitHub2.Form1.resources
+C:\Users\albertolozosu\Desktop\GitHub2\obj\Debug\GitHub2.Properties.Resources.resources
+C:\Users\albertolozosu\Desktop\GitHub2\obj\Debug\GitHub2.csproj.GenerateResource.cache
+C:\Users\albertolozosu\Desktop\GitHub2\obj\Debug\GitHub2.exe
+C:\Users\albertolozosu\Desktop\GitHub2\obj\Debug\GitHub2.pdb
